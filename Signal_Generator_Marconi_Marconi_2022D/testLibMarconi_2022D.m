@@ -1,3 +1,23 @@
+%%   --------------------------------------------------------------
+%%   --------               GranaSAT                        -------
+%%   --------                                               -------
+%%   --------             Summer Camp 2016                  -------
+%%   --------             granasat@ugr.es                   -------
+%%   --------                                               -------
+%%   --------                                               -------
+%%   --------         University of Granada (SPAIN)         -------
+%%   --------                                               -------
+%%   --------         https://granasat.ugr.es               -------
+%%   --------                                               -------
+%%   --------------------------------------------------------------
+%%
+%% Marconi-2022D Lib Test. Last update: July 19th, 2016. 
+%% Javier Vargas García. Contac: javivarguitas11@hotmail.com
+%% This library is used in order to communicate with the signal generator
+%% Marconi 2022D through an USB - GPIB bus converter.
+
+
+
 clc; clear all;
 %fclose(instrfind);
 
