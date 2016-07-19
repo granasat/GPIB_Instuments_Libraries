@@ -1,5 +1,4 @@
-[logo]: https://granasat.ugr.es/templates/sj_plus/favicon.ico "Logo Title Text 2"
-# Signal Generator Marconi 2022D
+#![alt text](https://granasat.ugr.es/templates/sj_plus/favicon.ico "GranaSAT Logo") Signal Generator Marconi 2022D
 
   This example files have been tested on GranaSAT GPIB Transceiver.
 
