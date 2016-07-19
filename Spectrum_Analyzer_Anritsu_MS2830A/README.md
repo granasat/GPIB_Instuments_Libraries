@@ -9,5 +9,5 @@
   ---
   
   Front side of the Spectrum Analyzer: 
-![alt text](https://gwdata.cdn-anritsu.com/images/products/tm-ms2830a/ms2830a-spectrumanalyzer-signalanalyzer.png?h=310&w=420 "Image")
+  ![alt text](https://gwdata.cdn-anritsu.com/images/products/tm-ms2830a/ms2830a-spectrumanalyzer-signalanalyzer.png?h=310&w=420 "Image")
   
