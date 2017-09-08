@@ -1,4 +1,4 @@
- ![alt text](http://fciencias.ugr.es/images/stories/imagenes/Proyectos/granasat.png) Spectrum Analyzer Anritsu MS2830A 
+ ![alt text](http://wpd.ugr.es/~granasat/wordpress/wp-content/uploads/2016/12/favicon1.png) Spectrum Analyzer Anritsu MS2830A 
 
   This example files have been tested on GranaSAT GPIB Transceiver.
   
